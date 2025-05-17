@@ -13,7 +13,7 @@ Sum all digits.
 
 Valid if total sum is divisible by 10.
 
-Parameters
+Parameters:
 card_number: Card number as a string.
 
 Returns
